@@ -1,4 +1,4 @@
-﻿// 
+﻿// Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 
 double[] GenerateArray(int size, double leftRange, double rightRange)
 {
